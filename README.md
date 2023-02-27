@@ -10,3 +10,7 @@ Parenthesis Checker
 <img width="1639" alt="image" src="https://user-images.githubusercontent.com/54212786/221529152-2499e427-025c-4d1d-b527-b3830fd01e18.png">
 <img width="1639" alt="image" src="https://user-images.githubusercontent.com/54212786/221529358-a1dc4bf3-4d16-46e0-a9cd-607d0e4fffbc.png">
 <img width="1639" alt="image" src="https://user-images.githubusercontent.com/54212786/221529481-37009c64-1952-4a80-ab2c-4ea82fcf9704.png">
+
+Reversing a List
+<img width="373" alt="image" src="https://user-images.githubusercontent.com/54212786/221641694-f267fce4-a897-4e68-881d-40f39038ba9d.png">
+
