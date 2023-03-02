@@ -15,3 +15,10 @@ Reversing a List
 
 <img width="373" alt="image" src="https://user-images.githubusercontent.com/54212786/221641694-f267fce4-a897-4e68-881d-40f39038ba9d.png">
 
+InfixToPrefix Conversion
+
+<img width="802" alt="image" src="https://user-images.githubusercontent.com/54212786/222403163-803d017b-fc5e-4d20-ba8c-a6f3d437532d.png">
+<img width="802" alt="image" src="https://user-images.githubusercontent.com/54212786/222403346-2ee683e7-e180-44fb-b3a7-91a592c8e054.png">
+
+
+
