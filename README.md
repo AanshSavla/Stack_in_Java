@@ -24,4 +24,8 @@ Postfix Evaluation
 
 <img width="434" alt="image" src="https://user-images.githubusercontent.com/54212786/222431789-4f8bd700-a0a4-4511-8c03-1a513d67ecf0.png">
 
+InfixToPrefix Expression
+
+<img width="446" alt="image" src="https://user-images.githubusercontent.com/54212786/222691440-bd9a0ce7-6d00-41c8-85e2-22e6cf215313.png">
+
 
