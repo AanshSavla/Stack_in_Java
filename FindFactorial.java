@@ -2,7 +2,6 @@ import java.io.*;
 import java.util.*;
 
 class Fact{
-    int number;
     int findFact(int n){
         if(n == 1){
             return 1;
