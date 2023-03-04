@@ -41,4 +41,7 @@ GCD and LCM
 
 <img width="302" alt="image" src="https://user-images.githubusercontent.com/54212786/222895330-53c94e32-96bc-43e5-84bd-6303c9e1a296.png">
 
+Number raise to exponent
+
+<img width="302" alt="image" src="https://user-images.githubusercontent.com/54212786/222896542-ea0e30cb-8ca5-431c-8091-00fb49102a0d.png">
 
