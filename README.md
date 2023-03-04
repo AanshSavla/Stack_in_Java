@@ -33,4 +33,9 @@ PrefixConversion
 
 <img width="446" alt="image" src="https://user-images.githubusercontent.com/54212786/222702975-ad6cb936-ee2b-4b50-ae38-2c4b37881ff5.png">
 
+Factorial of Number
+
+<img width="302" alt="image" src="https://user-images.githubusercontent.com/54212786/222894428-823cb94c-b83c-4aec-91a6-409dd0327a78.png">
+
+
 
