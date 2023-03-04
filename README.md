@@ -49,3 +49,8 @@ Fibonacci Series
 
 <img width="302" alt="image" src="https://user-images.githubusercontent.com/54212786/222898509-4fc73128-7373-4f00-9474-9ac0bfa11c5a.png">
 
+Tower Of Hanoi
+
+<img width="302" alt="image" src="https://user-images.githubusercontent.com/54212786/222901114-86b5cedc-caad-4b58-98c6-e60f54d99cc2.png">
+
+
