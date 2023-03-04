@@ -45,3 +45,7 @@ Number raise to exponent
 
 <img width="302" alt="image" src="https://user-images.githubusercontent.com/54212786/222896542-ea0e30cb-8ca5-431c-8091-00fb49102a0d.png">
 
+Fibonacci Series
+
+<img width="302" alt="image" src="https://user-images.githubusercontent.com/54212786/222898509-4fc73128-7373-4f00-9474-9ac0bfa11c5a.png">
+
