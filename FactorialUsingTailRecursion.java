@@ -1,13 +1,17 @@
 import java.io.*;
 import java.util.*;
-// Non Tail Recursion
+// Tail Recursion using auxilliary function.
+// Difference between tail and non tail recursion is that in non tail recursion a pending operation is performed after resursion e.g. n*Fact(n-1) while in tail recursion there is no pending operation after recursion e.g Fact(n-1,n*res)
 class Fact{
     int findFact(int n){
+        return findFact1(n,1);
+    }
+    int findFact1(int n,int res){
         if(n == 1){
-            return 1;
+            return res;
         }
         else{
-            return n*findFact(n-1);
+            return findFact1(n-1,n*res);
         }
     }
 }
