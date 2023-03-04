@@ -37,5 +37,8 @@ Factorial of Number
 
 <img width="302" alt="image" src="https://user-images.githubusercontent.com/54212786/222894428-823cb94c-b83c-4aec-91a6-409dd0327a78.png">
 
+GCD and LCM
+
+<img width="302" alt="image" src="https://user-images.githubusercontent.com/54212786/222895330-53c94e32-96bc-43e5-84bd-6303c9e1a296.png">
 
 
