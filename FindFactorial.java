@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-
+// Non Tail Rescursion
 class Fact{
     int findFact(int n){
         if(n == 1){
