@@ -53,4 +53,10 @@ Tower Of Hanoi
 
 <img width="302" alt="image" src="https://user-images.githubusercontent.com/54212786/222901114-86b5cedc-caad-4b58-98c6-e60f54d99cc2.png">
 
+Stack Using Linked List
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227167779-da89337c-655b-4dfb-a4c9-c34a0431fb9d.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227167878-8cd8d14b-3ff5-4b81-acbf-1205e0178163.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/54212786/227168005-9fe129b2-c992-450e-873c-58a50e8af55c.png">
+
 
